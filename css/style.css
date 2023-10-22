@@ -252,9 +252,8 @@ li>a:hover {
     background-color: #4154f1;
     border: 1px solid #4154f1;
     position: fixed;
-    right: 0;
+    right: 20px;
     top: 90%;
-    margin-right: 20px;
     border-radius: 3px;
     opacity: 0;
     transition: 1s;
@@ -430,9 +429,11 @@ li>a:hover {
     .nav {
         margin: 62px 0;
 
-        transform: translateX(200px);
+     
     }
-
+   .nav::before{
+        display: none;
+    }
 }
 
 
