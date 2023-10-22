@@ -426,12 +426,6 @@ function work(d) {
 
 }
 
-window.addEventListener('load',function(){
-
-    Swal.fire('Hello world')
-
-
-})
 
 
 
