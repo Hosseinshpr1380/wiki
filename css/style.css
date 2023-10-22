@@ -1,6 +1,6 @@
 html {
     font-size: 100%;
-    overflow:hidden !important;
+  
 }
 
 * {
@@ -18,7 +18,7 @@ body {
     font-size: 1rem;
     min-width: 350px;
     background-color: #fff;
-    overflow-x: hidden;
+    overflow-x: hidden !important; 
 }
 
 a {
