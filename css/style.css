@@ -790,7 +790,7 @@ li>a:hover {
     }
 
     .futures-check {
-        width: 100%;
+        width: calc(100% - 20px);
         /* padding:100px 0; */
         float: none !important;
         margin: 30px 0;
