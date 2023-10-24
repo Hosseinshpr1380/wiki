@@ -876,7 +876,7 @@ li>a:hover {
 
 @media (max-width:599.99px) {
     .main-2 {
-        width: 100%;
+        width: calc(100% - 20px);
         /* margin:10px; */
     }
 }
